@@ -8,3 +8,7 @@
   Resultado<br>
   https://docs.google.com/spreadsheets/d/1oh_HVg4Q0kRX4d23Lbjbhx_a2V48POC6Jq21A_uYi-A/edit?usp=sharing
 </p>
+<p>
+  Apresentações<br>
+  https://docs.google.com/spreadsheets/d/1eATRf9sn9Gee-tNlxroEHVZjarQytvqHGAWXenJ-3fA/edit?usp=sharing
+</p>
